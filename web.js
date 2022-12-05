@@ -5,7 +5,7 @@ function change() {
   document.body.style.backgroundColor = "#" + x;
 }
 
-setTimeout(change, 1200);
+setTimeout(change, 5000);
 
 function foil() {
   document.body.style.fontWeight = "bold";
